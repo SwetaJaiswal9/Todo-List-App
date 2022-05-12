@@ -2,7 +2,7 @@
 
 ( https://swetajaiswal9.github.io/Todo-List-App/ )
 
-Todo List App using Javascript
+Todo List App using JavaScript
 
 # Screenshot
 
